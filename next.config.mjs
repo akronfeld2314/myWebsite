@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/alexander'
+  basePath: '/amk'
 };
 
 export default nextConfig;
