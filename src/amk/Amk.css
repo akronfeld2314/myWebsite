@@ -1,6 +1,41 @@
-.section {
-  height: 100vh;
-  width: 100vw;
+.intro-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.intro-section p {
+  text-align: center;
+  margin: 0px;
+}
+
+.quote-menu {
+  width: 100%;
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.quote-signature {
+  display: flex;
+  flex-direction: column;
+}
+
+.quote-signature > .signature {
+  margin-top: 10px;
+  align-self: flex-end;
+}
+
+.quote-menu > .menu {
+  margin-right: 20px;
+  align-self: flex-start;
+}
+
+.introduction > .name {
+  font-size: larger;
+  margin-top: 20px;
 }
 
 .portrait {
