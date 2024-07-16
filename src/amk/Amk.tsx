@@ -12,7 +12,7 @@ const Amk = () => {
     {
       key: '1',
       label: (
-        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/14K9YT-__6oJa-3T3ri2xUeu_GmvTf2Pi/view?usp=sharing">
+        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1YGBREqL6BEdgam3ZJswcRlbtajO6WLoF/view?usp=sharing">
           Download my Resume!
         </a>
       ),
